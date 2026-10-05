@@ -1,0 +1,111 @@
+{
+  "best_intraday_peak_exponent": 0.5,
+  "grid": [
+    {
+      "intraday_peak_exponent": 0.5,
+      "search_days_per_month": 5,
+      "observed_veh_per_day": 2626.91,
+      "simulated_served_veh_per_day": 2552.6,
+      "abs_error_veh_per_day": -74.30999999999995,
+      "rel_error": -0.02828798854928416,
+      "rmse_veh_per_day": 39.48490808735239,
+      "mean_renege_fraction": 0.04340090462696158,
+      "worst_renege_fraction": 0.0939791157520551,
+      "seconds": 2.0456344
+    },
+    {
+      "intraday_peak_exponent": 1.0,
+      "search_days_per_month": 5,
+      "observed_veh_per_day": 2626.91,
+      "simulated_served_veh_per_day": 2348.4,
+      "abs_error_veh_per_day": -278.50999999999976,
+      "rel_error": -0.10602190406218703,
+      "rmse_veh_per_day": 113.13666352395819,
+      "mean_renege_fraction": 0.08132773716553504,
+      "worst_renege_fraction": 0.21236795774647887,
+      "seconds": 2.0502132
+    },
+    {
+      "intraday_peak_exponent": 1.5,
+      "search_days_per_month": 5,
+      "observed_veh_per_day": 2626.91,
+      "simulated_served_veh_per_day": 2201.4,
+      "abs_error_veh_per_day": -425.50999999999976,
+      "rel_error": -0.16198118702201436,
+      "rmse_veh_per_day": 191.22248638693085,
+      "mean_renege_fraction": 0.10975808016007332,
+      "worst_renege_fraction": 0.2976086956521739,
+      "seconds": 2.1888515
+    },
+    {
+      "intraday_peak_exponent": 2.5,
+      "search_days_per_month": 5,
+      "observed_veh_per_day": 2626.91,
+      "simulated_served_veh_per_day": 1977.0,
+      "abs_error_veh_per_day": -649.9099999999999,
+      "rel_error": -0.24740474549946512,
+      "rmse_veh_per_day": 301.97346345884984,
+      "mean_renege_fraction": 0.15761132003020847,
+      "worst_renege_fraction": 0.39594298245614035,
+      "seconds": 2.0812136
+    }
+  ],
+  "metrics": {
+    "train": {
+      "months": 15,
+      "rmse_veh": 1326.7718902157474,
+      "mae_veh": 907.1399999999996,
+      "mean_abs_rel_error": 0.033927968693787044,
+      "corr": 0.9958853020723143,
+      "months_within_5pct": 13,
+      "months_with_obs_in_replica_band": 13
+    },
+    "test": {
+      "months": 5,
+      "rmse_veh": 255.20957662282194,
+      "mae_veh": 202.40000000000038,
+      "mean_abs_rel_error": 0.014482972564509543,
+      "corr": 0.9995763754300822,
+      "months_within_5pct": 5,
+      "months_with_obs_in_replica_band": 5
+    },
+    "all": {
+      "months": 20,
+      "rmse_veh": 1156.0820552625146,
+      "mae_veh": 730.9549999999998,
+      "mean_abs_rel_error": 0.02906671966146767,
+      "corr": 0.996177857011161,
+      "months_within_5pct": 18,
+      "months_with_obs_in_replica_band": 18
+    }
+  },
+  "train_months": [
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+  ],
+  "test_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "replicas_per_month": 1,
+  "seeds": [
+    101
+  ],
+  "band_meaning": "replica stochastic spread only, not a prediction interval"
+}

@@ -1,0 +1,21 @@
+month,days_in_month,light_vehicles,vehicles_per_day,source_url,retrieved,granularity,notes
+2024-10,31,22668,731.23,https://concesiones.mop.gob.cl/uploads/sites/4/2024/12/Diptico_NCFLL_2024_10.pdf,2026-09-30,monthly,Series starts 2024-10; 2024-01..2024-09 not retrievable at retrieval date.
+2024-11,30,26723,890.77,https://concesiones.mop.gob.cl/uploads/sites/4/2025/01/Diptico_NCFLL_2024_11.pdf,2026-09-30,monthly,Series starts 2024-10; 2024-01..2024-09 not retrievable at retrieval date.
+2024-12,31,31813,1026.23,https://concesiones.mop.gob.cl/uploads/sites/4/2025/02/Diptico_NCFLL_2024_12.pdf,2026-09-30,monthly,Series starts 2024-10; 2024-01..2024-09 not retrievable at retrieval date.
+2025-01,31,50084,1615.61,https://concesiones.mop.gob.cl/uploads/sites/4/2025/03/Diptico_NCFLL_2025_01.pdf,2026-09-30,monthly,DERIVED: highest vehicles_per_day of the series.
+2025-02,28,38367,1370.25,https://concesiones.mop.gob.cl/uploads/sites/4/2025/04/Diptico_NCFLL_2025_02.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-03,31,34014,1097.23,https://concesiones.mop.gob.cl/uploads/sites/4/2025/05/Diptico_NCFLL_2025_03.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-04,30,29384,979.47,https://concesiones.mop.gob.cl/uploads/sites/4/2025/06/Diptico_NCFLL_2025_04.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-05,31,20835,672.10,https://concesiones.mop.gob.cl/uploads/sites/4/2025/07/Diptico_NCFLL_2025_05.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-06,30,7973,265.77,https://concesiones.mop.gob.cl/uploads/sites/4/2025/08/Diptico_NCFLL_2025_06.pdf,2026-09-30,monthly,DERIVED: lowest vehicles_per_day of the series.
+2025-07,31,15678,505.74,https://concesiones.mop.gob.cl/uploads/sites/4/2025/09/Diptico_NCFLL_2025_07.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-08,31,10156,327.61,https://concesiones.mop.gob.cl/uploads/sites/4/2025/10/Diptico_NCFLL_2025_08.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-09,30,15382,512.73,https://concesiones.mop.gob.cl/uploads/sites/4/2025/11/Diptico_NCFLL_2025_09.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-10,31,19820,639.35,https://concesiones.mop.gob.cl/uploads/sites/4/2025/12/Diptico_NCFLL_2025_10.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-11,30,22366,745.53,https://concesiones.mop.gob.cl/uploads/sites/4/2026/01/Diptico_NCFLL_2025_11.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2025-12,31,25075,808.87,https://concesiones.mop.gob.cl/uploads/sites/4/2026/02/Diptico_NCFLL_2025_12.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2026-01,31,34687,1118.94,https://concesiones.mop.gob.cl/uploads/sites/4/2026/03/Diptico_NCFLL_2026_01.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2026-02,28,23178,827.79,https://concesiones.mop.gob.cl/uploads/sites/4/2026/04/Diptico_NCFLL_2026_02.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2026-03,31,16548,533.81,https://concesiones.mop.gob.cl/uploads/sites/4/2026/05/Diptico_NCFLL_2026_03.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2026-04,30,14321,477.37,https://concesiones.mop.gob.cl/uploads/sites/4/2026/06/Diptico_NCFLL_2026_04.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
+2026-05,31,11138,359.29,https://concesiones.mop.gob.cl/uploads/sites/4/2026/07/Diptico_NCFLL_2026_05.pdf,2026-09-30,monthly,Series ends 2026-05; 2026-06+ not retrievable at retrieval date.
